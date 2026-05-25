@@ -31,7 +31,7 @@ export default function FounderSection() {
               <a href="mailto:hello@skslabs.dev" title="Email" className="rounded-full bg-white/5 p-3 transition hover:bg-cyan-400/15">
                 <Mail className="h-5 w-5 text-cyan-300" />
               </a>
-              <a href="https://kelvinsenior.github.io/KelvinSenior/" target="_blank" rel="noopener noreferrer" title="Website" className="rounded-full bg-white/5 p-3 transition hover:bg-cyan-400/15">
+              <a href="https://kelvin-senior.vercel.app" target="_blank" rel="noopener noreferrer" title="Website" className="rounded-full bg-white/5 p-3 transition hover:bg-cyan-400/15">
                 <Globe className="h-5 w-5 text-cyan-300" />
               </a>
             </div>
