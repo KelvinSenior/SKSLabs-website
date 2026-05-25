@@ -104,5 +104,3 @@ Contributions are welcome — please open issues or pull requests on the GitHub 
 This project is provided under the MIT License. See `LICENSE` for details.
 
 ---
-
-If you want, I can commit and push this `README.md` for you and trigger a Vercel redeploy.
