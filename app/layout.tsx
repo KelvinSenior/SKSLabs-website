@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     siteName: "SKS Labs",
     images: [
       {
-        url: new URL("/logo.svg", metadataBase).toString(),
+        url: new URL("/SKS_Labs_Logo_no_text-bg.png", metadataBase).toString(),
         width: 1200,
         height: 630,
         alt: "SKS Labs logo",
@@ -65,12 +65,12 @@ export const metadata: Metadata = {
     title: "SKS Labs — Digital Products, AI Solutions & Scalable Systems",
     description:
       "SKS Labs is a technology-focused startup studio building modern software products, AI-powered systems, and scalable digital infrastructure from Ghana to the world.",
-    images: [new URL("/logo.svg", metadataBase).toString()],
+    images: [new URL("/SKS_Labs_Logo_no_text-bg.png", metadataBase).toString()],
   },
   icons: {
-    icon: "/logo.svg",
-    shortcut: "/logo.svg",
-    apple: "/logo.svg",
+    icon: "/SKS_Labs_Logo_no_text-bg.png",
+    shortcut: "/SKS_Labs_Logo_no_text-bg.png",
+    apple: "/SKS_Labs_Logo_no_text-bg.png",
   },
   alternates: {
     canonical: metadataBase.toString(),
